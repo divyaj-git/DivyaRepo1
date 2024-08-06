@@ -10,9 +10,9 @@
            procedure division.
 
            main-procedure.
-               display "hello world" at 0505
-               display "hello world" line 06 column 05
-               display "hello world"
+               display "hello world!]" at 0505
+               display "hello world!" line 06 column 05
+               display "hello world!"
                    line 07 column 05
                    with blank line
                end-display
